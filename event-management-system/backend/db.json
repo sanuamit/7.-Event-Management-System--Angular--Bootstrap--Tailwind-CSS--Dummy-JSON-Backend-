@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Angular Conference",
+      "date": "2024-07-20",
+      "location": "New York"
+    },
+    {
+      "id": "2",
+      "name": "React Meetup",
+      "date": "2024-08-15",
+      "location": "San Francisco"
+    },
+    {
+      "id": "843b",
+      "name": "Node.js Meet",
+      "date": "2324-09-08",
+      "location": "banglore"
+    },
+    {
+      "id": "60cd",
+      "name": "nhjbhjsj",
+      "date": "2077-09-08",
+      "location": "noida"
+    }
+  ]
+}

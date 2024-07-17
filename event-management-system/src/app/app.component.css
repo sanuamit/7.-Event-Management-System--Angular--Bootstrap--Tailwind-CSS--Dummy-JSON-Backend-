@@ -1,0 +1,84 @@
+/* app.component.css */
+
+/* Ensure the container takes full width and is centered */
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Add padding to the main container */
+.p-4 {
+  padding: 1rem; /* Tailwind utility class */
+}
+
+/* Add margin to the bottom of the elements */
+.mb-4 {
+  margin-bottom: 1rem; /* Tailwind utility class */
+}
+
+/* Add padding inside the event boxes */
+.p-4 {
+  padding: 1rem; /* Tailwind utility class */
+}
+
+/* Border styling for the event boxes */
+.border {
+  border-width: 1px; /* Tailwind utility class */
+  border-color: #e2e8f0; /* Tailwind utility class */
+}
+
+/* Rounded corners for the event boxes */
+.rounded {
+  border-radius: 0.375rem; /* Tailwind utility class */
+}
+
+/* Add shadow to the event boxes */
+.shadow {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* Tailwind utility class */
+}
+
+/* Styling for the main heading */
+.text-2xl {
+  font-size: 1.5rem; /* Tailwind utility class */
+  line-height: 2rem; /* Tailwind utility class */
+  font-weight: bold; /* Tailwind utility class */
+}
+
+/* Styling for the event name */
+.text-xl {
+  font-size: 1.25rem; /* Tailwind utility class */
+  line-height: 1.75rem; /* Tailwind utility class */
+  font-weight: 600; /* Tailwind utility class */
+}
+
+/* Styling for the event details heading */
+.text-lg {
+  font-size: 1.125rem; /* Tailwind utility class */
+  line-height: 1.75rem; /* Tailwind utility class */
+  font-weight: 600; /* Tailwind utility class */
+}
+
+/* Styling for the submit button */
+.bg-blue-500 {
+  background-color: #4299e1; /* Tailwind utility class */
+}
+
+.text-white {
+  color: #ffffff; /* Tailwind utility class */
+}
+
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem; /* Tailwind utility class */
+}
+
+.py-2 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem; /* Tailwind utility class */
+}
+
+/* Styling for cursor pointer on event list items */
+.cursor-pointer {
+  cursor: pointer;
+}
